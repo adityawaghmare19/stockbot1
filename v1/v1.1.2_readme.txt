@@ -1,0 +1,2 @@
+------v2-----------
+the v2 is a slightly updated version from the v1 , it takes 5 stocks at a time 

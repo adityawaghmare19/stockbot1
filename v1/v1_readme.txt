@@ -1,0 +1,1 @@
+the v1 is the most basic functionality of the app , it only fetches data from one stock and returns buy sell and hold , using the simple comparator to compare the ema's
