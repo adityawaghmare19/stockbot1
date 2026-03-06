@@ -14,4 +14,4 @@ and the bot runs automatically every 10 minutes
 
 gets email alerts system 
 
------- SMTP email password - fbze oopu bdao defv
+
