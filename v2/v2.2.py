@@ -11,9 +11,9 @@ tickers = ["HDFCBANK.NS", "^NSEI", "^NSEBANK", "ASIANPAINT.NS", "RELIANCE.NS"]
 LOG_FILE = "stock_signals_log.txt"
 
 # Email config
-EMAIL_SENDER = "nuggagamer2020@gmail.com"
-EMAIL_RECEIVER = "narendra.waghmare62@gmail.com"
-EMAIL_PASSWORD = "fbze oopu bdao defv"
+EMAIL_SENDER = "sender@gmail.com"
+EMAIL_RECEIVER = "rec2@gmail.com"
+EMAIL_PASSWORD = "pass"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 # ===============================
